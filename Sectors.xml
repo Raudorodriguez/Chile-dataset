@@ -172,9 +172,6 @@
   <Sector FullName="Sturt" Frequency="134.400" Callsign="BN-STR_CTR" Name="STR">
     <Volumes>STR</Volumes>
   </Sector>
-  <Sector FullName="Swampy" Frequency="133.200" Callsign="BN-SWY_CTR" Name="SWY">
-    <Volumes>SWY</Volumes>
-  </Sector>
   <Sector FullName="Tabletop" Frequency="120.550" Callsign="BN-TBP_CTR" Name="TBP">
     <Volumes>TBP,TBPTMA</Volumes>
   </Sector>
