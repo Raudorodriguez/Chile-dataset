@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System2" Name="SE RTCC" Priority="2" Center="-34.947+138.525">
+  <Map Type="System2" Name="SE RTCC" Priority="2" Center="-295459.276-0711157.929">
     <Line Pattern="Dotted" Width="1.5">
-      <Point> -029.54.59.276 -071.11.57.929/-029.44.53.572 -071.23.08.973/</Point>
+      <Point> -295459.276-0711157.929/-294453.572-0712308.973/</Point>
     </Line>
     <Label HasLeader="false">
-      <Point Name="30">-351659.27+1383808.13</Point>
+      <Point Name="30">-295459.276-0711157.929</Point>
     </Label>
   </Map>
 </Maps>

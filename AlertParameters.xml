@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AlertParameters>
-  <ConflictAlerts>
-  </ConflictAlerts>
   <EMG SSRCode="7700" AlertPriority="2"/>
   <RAD SSRCode="7600" AlertPriority="2"/>
   <RAM WaypointNodeRadius="14" CorridorWidth="14" AirportRadius="20" AlertPriority="3"/>

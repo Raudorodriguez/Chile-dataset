@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Position Name="Serena TWR" Type="ASD" DefaultCenter="-029.55.11.597-071.11.25.456" DefaultRange="30">
+  <Position Name="Serena TWR" Type="ASD" DefaultCenter="-295511.597-0711125.456" DefaultRange="30">
     <Sectors>
       <Sector Name="SER" />
     </Sectors>
     <ManualVisibility>
-      <Point>-029.55.11.597-071.11.25.456
+      <Point>-295511.597-0711125.456
       </Point>
        </ManualVisibility>
     <Maps>
