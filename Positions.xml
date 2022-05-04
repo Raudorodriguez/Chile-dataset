@@ -10,6 +10,7 @@
        </ManualVisibility>
     <Maps>
       <Map Name="La Serena/SE RTCC"/>
+      <Map Name="La Serena/SE_COAST"/>
     </Maps>
     <Strips Mode="State" Sort="Time">
       <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -25,9 +26,10 @@
       <Line>ATC feedback - www.accvirtual.cl</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="SCSE" Type="ASMGCS" ASMGCSAirport="SCSE" DefaultCenter="-295511.597-0711125.456" DefaultRange="2" MagneticVariation="-7" Rotation="120.4">
+  <Position Name="SCSE" Type="ASMGCS" ASMGCSAirport="SCSE" DefaultCenter="-295511.597-0711125.456" DefaultRange="2" MagneticVariation="-7" Rotation="90">
     <Maps>
-      <Map Name="La Serena/ASMGCS_SCSE" />
+      <Map Name="La Serena/ASMGCS_SCSE_RWY" />
+      <Map Name="La Serena/ASMGCS_SCSE_TWY" />
      </Maps>
   </Position>
 </Positions>
