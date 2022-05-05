@@ -11,6 +11,7 @@
     <Maps>
       <Map Name="La Serena/SE RTCC"/>
       <Map Name="La Serena/SE_COAST"/>
+      <Map Name="La Serena/SE_RWY12"/>
     </Maps>
     <Strips Mode="State" Sort="Time">
       <Window Type="State" State="Jurisdiction" Visible="true" />
