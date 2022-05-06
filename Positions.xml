@@ -27,10 +27,17 @@
       <Line>ATC feedback - www.accvirtual.cl</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="SCSE" Type="ASMGCS" ASMGCSAirport="SCSE" DefaultCenter="-295511.597-0711125.456" DefaultRange="2" MagneticVariation="-7" Rotation="90">
+  <Position Name="SCSE" Type="ASMGCS" ASMGCSAirport="SCSE" DefaultCenter="-295511.597-0711125.456" DefaultRange="2" MagneticVariation="-7" Rotation="0">
     <Maps>
       <Map Name="La Serena/ASMGCS_SCSE_RWY" />
       <Map Name="La Serena/ASMGCS_SCSE_TWY" />
+     </Maps>
+  </Position>
+    <Position Name="SCEL" Type="ASMGCS" ASMGCSAirport="SCEL" DefaultCenter="-332332.000-0704736.980" DefaultRange="2" MagneticVariation="-7" Rotation="0">
+    <Maps>
+      <Map Name="La Serena/ASMGCS_SCEL_RWY" />
+      <Map Name="La Serena/ASMGCS_SCEL_TWY" />
+      <Map Name="La Serena/ASMGCS_SCEL_APR" />
      </Maps>
   </Position>
 </Positions>
