@@ -52,9 +52,9 @@
   <Colour id="WindowBackground">
 		<Use>Window Backgrounds</Use>
 		<Name>LightGrey</Name>
-		<R>160</R>
-		<G>170</G>
-		<B>170</B>
+		<R>150</R>
+		<G>189</G>
+		<B>187</B>
 	</Colour>
 	<Colour id="WindowButtonDepressed">
     <Use>Depressed Window Button Background</Use>
@@ -100,10 +100,10 @@
 	</Colour>
   <Colour id="HighlightedText">
 		<Use>Highlighted Text</Use>
-		<Name>CyanBlue</Name>
-		<R>0</R>
-		<G>255</G>
-		<B>255</B>
+		<Name>Verde</Name>
+		<R>90</R>
+		<G>240</G>
+		<B>139</B>
 	</Colour>
   <Colour id="CPDLCMessageBackground">
 		<Use>CPDLC Background</Use>
@@ -229,10 +229,10 @@
 	</Colour>
   <Colour id="ASDBackground">
 		<Use>ASD Backgrounds</Use>
-		<Name>MidGrey</Name>
-		<R>127</R>
-		<G>127</G>
-		<B>127</B>
+		<Name>Black</Name>
+		<R>0</R>
+		<G>0</G>
+		<B>0</B>
 	</Colour>
   <Colour id="CPDLCSendButton">
 		<Use>CPDLC Hot-Send Button</Use>
@@ -251,9 +251,9 @@
 	<Colour id="Jurisdiction">
 		<Use>Jurisdiction</Use>
 		<Name>LightGreen</Name>
-		<R>200</R>
-		<G>255</G>
-		<B>200</B>
+		<R>247</R>
+		<G>217</G>
+		<B>151</B>
 	</Colour>
   <Colour id="GhostJurisdiction">
     <Use>GhostJurisdiction</Use>
@@ -405,9 +405,9 @@
   <Colour id="SecondaryMap">
 		<Use>Alternative System Map</Use>
 		<Name>BlueGrey</Name>
-		<R>145</R>
-		<G>178</G>
-		<B>177</B>
+		<R>59</R>
+		<G>82</G>
+		<B>74</B>
 	</Colour>
   <Colour id="GroundRunway">
     <Use>A-SMGCS Runway</Use>
@@ -493,4 +493,11 @@
     <G>235</G>
     <B>0</B>
   </Colour>
+  <Colour id="Custom">
+	<Use>Color LPI</Use>
+	<Name>LPI</Name>
+	<R>166</R>
+	<G>169</G>
+	<B>162</B>
+</Colour>
 </Colours>

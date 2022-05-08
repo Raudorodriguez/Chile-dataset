@@ -4,28 +4,28 @@
     <Airport Name="SCSE">
       <Runway Name="12" DataRunway="12">
         <SID Name="ISGUD4" Default="True" />
-        <SID Name="MIBAS2K"/>
+        <SID Name="MIBA2K"/>
         <STAR Name="TOY3" />
-        <STAR Name="SEBTO4A" />
-        <STAR Name="SEBTO3A" />
-        <STAR Name="MIBAS3A" />
-        <STAR Name="MUGOS4A" />
-        <STAR Name="MUGOS2B" />
-        <STAR Name="DANLA3A" />
+        <STAR Name="SEBT4A" />
+        <STAR Name="SEBT3B" />
+        <STAR Name="MIBA3A" />
+        <STAR Name="MUGO4A" />
+        <STAR Name="MUGO2B" />
+        <STAR Name="DANL3A" />
       </Runway>
       <Runway Name="30" DataRunway="30">
         <SID Name="EDRON4" Default="True" />
-        <SID Name="MIBAS2J" />
+        <SID Name="MIBA2J" />
         <SID Name="TOY2"/>
-        <SID Name="TIMDA2J"/>
-        <SID Name="SEBTO2B"/>
+        <SID Name="TIMD2J"/>
+        <SID Name="SEBTO2"/>
         <SID Name="VUGUS3"/>
-        <STAR Name="ARSUS2A" />
-        <STAR Name="ARSUS2B" />
+        <STAR Name="ARSU2A" />
+        <STAR Name="ARSU2B" />
         <STAR Name="TIMDA3" />
         <STAR Name="KUGAP4" Default="True" />
-        <STAR Name="DANLA3B" />
-        <STAR Name="MIBAS2B" />
+        <STAR Name="DANL3B" />
+        <STAR Name="MIBA2B" />
       </Runway>
     </Airport>
   </SystemRunways>

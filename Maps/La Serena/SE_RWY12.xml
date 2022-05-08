@@ -3,8 +3,8 @@
   <Map Type="System" Name="SE_RWY12" Priority="1" Center="-295455.000-0711156.120">
     <!--SCSE-->
     <Runway Name="12/30">
-      <Threshold Name="12" Position="-295512.630-0711127.160" ExtendedCentrelineTrack="123.51" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
-      <Threshold Name="30" Position="-295445.600-0711229.960" ExtendedCentrelineTrack="303.51" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="12" Position="-295512.630-0711127.160" ExtendedCentrelineTrack="120.00" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="30" Position="-295445.600-0711229.960" ExtendedCentrelineTrack="300.00" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
     </Runway>
     </Map>
 </Maps>
