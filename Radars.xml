@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Radars>
-  <Radar Name="pajonales" Type="SMR_ADSB" Elevation="5783" MaxRange="250">
+  <Radar Name="pajonales" Type="SSR_ModeS" Elevation="5783" MaxRange="250">
     <Lat>-291008.0</Lat>
     <Long>-0705802.0</Long>
+  </Radar>
+    <Radar Name="Serena gnd" Type="SMR_ADSB" Elevation="0" MaxRange="5">
+    <Lat>-295500.000</Lat>
+    <Long>-0711210.220</Long>
   </Radar>
 </Radars>
