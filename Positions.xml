@@ -2,7 +2,7 @@
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Position Name="Serena TWR" Type="ASD" DefaultCenter="-295511.597-0711125.456" DefaultRange="30">
     <Sectors>
-      <Sector Name="SER" />
+      <Sector Name="SCSE" />
     </Sectors>
     <ManualVisibility>
       <Point>-295511.597-0711125.456
