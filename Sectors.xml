@@ -3,4 +3,7 @@
   <Sector FullName="La Serena Aproximacion" Frequency="135.350" Callsign="SCSE_APP" Name="SCSE">
     <Volumes>SCSE_APP</Volumes>
   </Sector>
+  <Sector FullName="La Serena Torre" Frequency="129.400" Callsign="SCSE_TWR" Name="SCSE_TWR">
+    <Volumes>SCSE_TWR,SCSE_CTRD</Volumes>
+  </Sector>
 </Sectors>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Position Name="Serena TWR" Type="ASD" DefaultCenter="-295511.597-0711125.456" DefaultRange="30">
+  <Position Name="Serena TWR" Type="ASD" DefaultCenter="-295511.597-0711125.456" DefaultRange="50">
     <Sectors>
-      <Sector Name="SCSE" />
+      <Sector Name="SCSE_TWR" />
     </Sectors>
     <ManualVisibility>
       <Point>-295511.597-0711125.456
@@ -27,17 +27,37 @@
       <Line>ATC feedback - www.accvirtual.cl</Line>
     </ControllerInfo>
   </Position>
+   <Position Name="Serena APP" Type="ASD" DefaultCenter="-295511.597-0711125.456" DefaultRange="250">
+    <Sectors>
+      <Sector Name="SCSE" />
+    </Sectors>
+    <ManualVisibility>
+      <Point>-295511.597-0711125.456
+      </Point>
+       </ManualVisibility>
+    <Maps>
+      <Map Name="La Serena/SE RTCC"/>
+      <Map Name="La Serena/SE_COAST"/>
+      <Map Name="La Serena/SE_RWY12"/>
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="10000" />
+    <ArrivalLists>
+      <Airport Name="SCSE" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>La Serena Aproximacion</Line>
+      <Line>ATC feedback - www.accvirtual.cl</Line>
+    </ControllerInfo>
+  </Position>
   <Position Name="SCSE" Type="ASMGCS" ASMGCSAirport="SCSE" DefaultCenter="-295511.597-0711125.456" DefaultRange="2" MagneticVariation="-7" Rotation="0">
     <Maps>
       <Map Name="La Serena/ASMGCS_SCSE_RWY" />
       <Map Name="La Serena/ASMGCS_SCSE_TWY" />
-     </Maps>
-  </Position>
-    <Position Name="SCEL" Type="ASMGCS" ASMGCSAirport="SCEL" DefaultCenter="-332332.000-0704736.980" DefaultRange="2" MagneticVariation="-7" Rotation="0">
-    <Maps>
-      <Map Name="La Serena/ASMGCS_SCEL_RWY" />
-      <Map Name="La Serena/ASMGCS_SCEL_TWY" />
-      <Map Name="La Serena/ASMGCS_SCEL_APR" />
      </Maps>
   </Position>
 </Positions>
