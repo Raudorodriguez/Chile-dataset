@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Sector FullName="La Serena Aproximacion" Frequency="135.350" Callsign="SE_APP" Name="SCSE">
+  <Sector FullName="La Serena Aproximacion" Frequency="135.350" Callsign="SCSE_APP" Name="SCSE">
     <Volumes>SCSE_APP</Volumes>
   </Sector>
 </Sectors>

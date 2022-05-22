@@ -76,7 +76,7 @@
 -301051.7-0715422.44/
 -301429.96-0715213.58
   </Boundary>
-  <Volume Name="SCSE_APP" LowerLimit="0" UpperLimit="18500">
+  <Volume Name="SCSE_APP" LowerLimit="0" UpperLimit="60000">
     <Boundaries>TMA La Serena</Boundaries>
   </Volume>
 </Volumes>
